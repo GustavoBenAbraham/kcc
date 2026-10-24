@@ -1,3 +1,5 @@
+[Português](README.pt-BR.md) | **English (original)**
+
 Most manga conversion methods for ereaders add margins. But KCC enables true fullscreen from top to bottom. 
 
 ![header](images/header_margins720.jpeg)
